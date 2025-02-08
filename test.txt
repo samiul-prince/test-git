@@ -1,4 +1,5 @@
 hello, this is me Samiul Islam Prince !!
-I'm 23 years old
+I'm 23 years old.
 I'm from Bangladesh.
 I'm an Undergraduate student of Computer science and Engineering.
+Currently, I have been living in Dhaka.
